@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 MediaPlayer mediaPlayer=new MediaPlayer();
-//                mediaPlayer.setDataSource(this,);
+                mediaPlayer.setDataSource(this,);
             }
         });
     }
