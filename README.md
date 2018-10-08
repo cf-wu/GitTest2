@@ -1,6 +1,5 @@
 ¨#GitTest2¨
-<<<<<<< HEAD
 //test2文件夹
-=======
 //test1文件夹
->>>>>>> origin/test
+
+//dev1分支 修改为test4
